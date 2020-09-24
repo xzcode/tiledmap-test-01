@@ -171,7 +171,7 @@
       "array": [
         0,
         0,
-        334.28580586079335,
+        491.9024293495612,
         0,
         0,
         0,
@@ -577,7 +577,7 @@
     "_is3DNode": false,
     "_groupIndex": 0,
     "groupIndex": 0,
-    "_id": "8bPGHTRmdOSq0qKCu54HCS"
+    "_id": "9698xMlBBLbLzsRjWNOxdF"
   },
   {
     "__type__": "cc.TiledLayer",
@@ -587,8 +587,12 @@
       "__id__": 10
     },
     "_enabled": true,
-    "_materials": [],
-    "_id": "e4X1l0zlRMlIj4XnnmrlZK"
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_id": "8e9VKD0MlJRLm9qKY47eDb"
   },
   {
     "__type__": "cc.TiledMap",
@@ -726,7 +730,7 @@
     "canvas": {
       "__id__": 18
     },
-    "node1Sprite": {
+    "node1SpriteFrame": {
       "__uuid__": "4a30b2f4-20eb-4124-9cd7-62bf0fe3d70e"
     },
     "_id": "0ekIlex4JOTa+ZW90kqO0L"
