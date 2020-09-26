@@ -2092,7 +2092,7 @@
 			"id": 246,
 			"name": "江乘县",
 			"coordX": 224,
-			"coordY": 139,
+			"coordY": 149,
 			"type": 1,
 			"effectType": 3,
 			"nation": "野国",
@@ -2520,16 +2520,7 @@
 			"effectType": 1,
 			"nation": "蜀国",
 			"nabours": 3
-		}, {
-			"id": 296,
-			"name": "白石县",
-			"coordX": 144,
-			"coordY": 229,
-			"type": 1,
-			"effectType": 2,
-			"nation": "野国",
-			"nabours": 3
-		}, {
+		},  {
 			"id": 297,
 			"name": "潞县",
 			"coordX": 132,
@@ -2574,16 +2565,7 @@
 			"effectType": 2,
 			"nation": "野国",
 			"nabours": 4
-		}, {
-			"id": 302,
-			"name": "寿光县",
-			"coordX": 134,
-			"coordY": 239,
-			"type": 1,
-			"effectType": 2,
-			"nation": "野国",
-			"nabours": 4
-		}, {
+		},{
 			"id": 303,
 			"name": "茂陵县",
 			"coordX": 122,
@@ -2650,7 +2632,7 @@
 			"id": 310,
 			"name": "杨县",
 			"coordX": 114,
-			"coordY": 239,
+			"coordY": 249,
 			"type": 1,
 			"effectType": 3,
 			"nation": "野国",
@@ -2713,7 +2695,7 @@
 			"id": 317,
 			"name": "临汾县",
 			"coordX": 114,
-			"coordY": 239,
+			"coordY": 229,
 			"type": 1,
 			"effectType": 2,
 			"nation": "野国",
@@ -3448,15 +3430,6 @@
 			"nation": "野国",
 			"nabours": 2
 		}, {
-			"id": 399,
-			"name": "安广县",
-			"coordX": 224,
-			"coordY": 109,
-			"type": 1,
-			"effectType": 1,
-			"nation": "野国",
-			"nabours": 2
-		}, {
 			"id": 400,
 			"name": "石平县",
 			"coordX": 212,
@@ -3834,15 +3807,6 @@
 				"effectType": 2,
 				"nation": "野国",
 				"nabours": 1
-			}, {
-				"id": 442,
-				"name": "天丰",
-				"coordX": 154,
-				"coordY": 179,
-				"type": 2,
-				"effectType": 1,
-				"nation": "野国",
-				"nabours": 2
 			}, {
 				"id": 443,
 				"name": "章县",
@@ -4681,15 +4645,6 @@
 				"nation": "表国",
 				"nabours": 3
 			}, {
-				"id": 536,
-				"name": "合肥",
-				"coordX": 174,
-				"coordY": 119,
-				"type": 2,
-				"effectType": 2,
-				"nation": "表国",
-				"nabours": 3
-			}, {
 				"id": 537,
 				"name": "成德",
 				"coordX": 172,
@@ -4697,24 +4652,6 @@
 				"type": 2,
 				"effectType": 2,
 				"nation": "表国",
-				"nabours": 3
-			}, {
-				"id": 538,
-				"name": "当徐县",
-				"coordX": 181,
-				"coordY": 117,
-				"type": 1,
-				"effectType": 2,
-				"nation": "野国",
-				"nabours": 3
-			}, {
-				"id": 539,
-				"name": "都梁县",
-				"coordX": 182,
-				"coordY": 114,
-				"type": 1,
-				"effectType": 3,
-				"nation": "野国",
 				"nabours": 3
 			}, {
 				"id": 540,
@@ -4734,16 +4671,7 @@
 				"effectType": 1,
 				"nation": "野国",
 				"nabours": 4
-			}, {
-				"id": 542,
-				"name": "秦海",
-				"coordX": 184,
-				"coordY": 109,
-				"type": 1,
-				"effectType": 3,
-				"nation": "野国",
-				"nabours": 4
-			}, {
+			},  {
 				"id": 543,
 				"name": "余泰县",
 				"coordX": 182,
@@ -4869,16 +4797,7 @@
 				"effectType": 2,
 				"nation": "表国",
 				"nabours": 4
-			}, {
-				"id": 557,
-				"name": "春谷县",
-				"coordX": 224,
-				"coordY": 89,
-				"type": 1,
-				"effectType": 3,
-				"nation": "表国",
-				"nabours": 4
-			}, {
+			},  {
 				"id": 558,
 				"name": "寻阳县",
 				"coordX": 222,
@@ -5652,16 +5571,7 @@
 				"effectType": 1,
 				"nation": "野国",
 				"nabours": 3
-			}, {
-				"id": 644,
-				"name": "成祥县",
-				"coordX": 84,
-				"coordY": 209,
-				"type": 1,
-				"effectType": 2,
-				"nation": "野国",
-				"nabours": 3
-			}, {
+			},  {
 				"id": 645,
 				"name": "武州县",
 				"coordX": 72,
@@ -6075,16 +5985,7 @@
 				"effectType": 2,
 				"nation": "野国",
 				"nabours": 2
-			}, {
-				"id": 691,
-				"name": "千乘县",
-				"coordX": 134,
-				"coordY": 129,
-				"type": 1,
-				"effectType": 3,
-				"nation": "袁国",
-				"nabours": 2
-			}, {
+			},{
 				"id": 692,
 				"name": "白门楼",
 				"coordX": 132,
@@ -6093,25 +5994,7 @@
 				"effectType": 3,
 				"nation": "袁国",
 				"nabours": 2
-			}, {
-				"id": 693,
-				"name": "关西",
-				"coordX": 141,
-				"coordY": 127,
-				"type": 2,
-				"effectType": 2,
-				"nation": "野国",
-				"nabours": 2
-			}, {
-				"id": 694,
-				"name": "富平县",
-				"coordX": 142,
-				"coordY": 124,
-				"type": 1,
-				"effectType": 2,
-				"nation": "野国",
-				"nabours": 2
-			}, {
+			},  {
 				"id": 695,
 				"name": "高苑县",
 				"coordX": 141,
@@ -6193,15 +6076,6 @@
 				"nation": "绍国",
 				"nabours": 3
 			}, {
-				"id": 704,
-				"name": "章武县",
-				"coordX": 164,
-				"coordY": 99,
-				"type": 1,
-				"effectType": 3,
-				"nation": "绍国",
-				"nabours": 3
-			}, {
 				"id": 705,
 				"name": "曲周县",
 				"coordX": 162,
@@ -6228,16 +6102,7 @@
 				"effectType": 3,
 				"nation": "魏国",
 				"nabours": 3
-			}, {
-				"id": 708,
-				"name": "元城",
-				"coordX": 174,
-				"coordY": 89,
-				"type": 1,
-				"effectType": 2,
-				"nation": "魏国",
-				"nabours": 3
-			}, {
+			},  {
 				"id": 709,
 				"name": "永祥县",
 				"coordX": 172,
@@ -6353,15 +6218,6 @@
 				"type": 1,
 				"effectType": 2,
 				"nation": "野国",
-				"nabours": 4
-			}, {
-				"id": 722,
-				"name": "夏丘县",
-				"coordX": 204,
-				"coordY": 69,
-				"type": 1,
-				"effectType": 3,
-				"nation": "绍国",
 				"nabours": 4
 			}, {
 				"id": 723,
@@ -6516,15 +6372,6 @@
 				"effectType": 1,
 				"nation": "野国",
 				"nabours": 4
-			}, {
-				"id": 740,
-				"name": "长山县",
-				"coordX": 164,
-				"coordY": 89,
-				"type": 1,
-				"effectType": 1,
-				"nation": "野国",
-				"nabours": 3
 			}, {
 				"id": 741,
 				"name": "南新县",
@@ -7568,15 +7415,6 @@
 				"type": 1,
 				"effectType": 1,
 				"nation": "吴国",
-				"nabours": 4
-			}, {
-				"id": 857,
-				"name": "东岭关",
-				"coordX": 144,
-				"coordY": 89,
-				"type": 1,
-				"effectType": 1,
-				"nation": "野国",
 				"nabours": 4
 			}, {
 				"id": 858,
@@ -9603,16 +9441,7 @@
 				"effectType": 3,
 				"nation": "野国",
 				"nabours": 4
-			}, {
-				"id": 1083,
-				"name": "胜休县",
-				"coordX": 74,
-				"coordY": 99,
-				"type": 1,
-				"effectType": 3,
-				"nation": "野国",
-				"nabours": 4
-			}, {
+			},{
 				"id": 1084,
 				"name": "新及县",
 				"coordX": 64,
@@ -9718,15 +9547,6 @@
 				"coordY": 127,
 				"type": 1,
 				"effectType": 2,
-				"nation": "野国",
-				"nabours": 4
-			}, {
-				"id": 1096,
-				"name": "严德县",
-				"coordX": 44,
-				"coordY": 129,
-				"type": 1,
-				"effectType": 3,
 				"nation": "野国",
 				"nabours": 4
 			}, {
